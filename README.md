@@ -15,6 +15,8 @@ AquaMozc for BlackBerry用のユーザー辞書を公開します。
 各ディレクトリの中の*.mozc.txtをダウンロードし、AquaMozc for BlackBerry>辞書ツール>辞書のインポート、からインポートしてください。  
 Google Drive経由でインポートするのが便利です。  
 
+まとめてダウンロードする場合はこちらのリンクから https://github.com/jiro-aqua/aquamozc-dictionary/archive/master.zip
+
 # 免債事項
 本辞書群はユーザーの便宜のために提供されるものであり、いかなる動作保証も提供致しません。また、本辞書を使用することにより発生したいかなる損害についても補償は行いません。利用に当たり、利用者自身で内容の確認を行った上で利用してください。
 
