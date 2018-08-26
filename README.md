@@ -36,4 +36,4 @@ first20hours/google-10000-english ( https://github.com/first20hours/google-10000
 - edict(カタカナ辞書) CC-BY-SA 3.0 http://www.edrdg.org/edrdg/licence.html
 - 駅名辞書(Public Domain)
 - 英語辞書(Public Domain)
-- wordnet英和辞書 http://nlpwww.nict.go.jp/wn-ja/license.txt
+- wordnet英和辞書 http://nlpwww.nict.go.jp/wn-ja/license.txt (NICT終了なので https://github.com/jiro-aqua/aquamozc-dictionary/blob/master/doc/wordnet-ejdic/license.txt )
