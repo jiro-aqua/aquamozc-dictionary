@@ -2,7 +2,7 @@
 User dictionaries for AquaMozc
 
 # AquaMozc用ユーザー辞書
-AquaMozc for BlackBerry用のユーザー辞書を公開します。
+AquaMozc for BlackBerry/Titan用のユーザー辞書を公開します。
 
 - 地名辞書
 - edict(日本語)
@@ -12,7 +12,7 @@ AquaMozc for BlackBerry用のユーザー辞書を公開します。
 - wordnet英和辞書
 
 # 使い方
-各ディレクトリの中の*.mozc.txtをダウンロードし、AquaMozc for BlackBerry>辞書ツール>辞書のインポート、からインポートしてください。  
+各ディレクトリの中の*.mozc.txtをダウンロードし、AquaMozc>辞書ツール>辞書のインポート、からインポートしてください。  
 Google Drive経由でインポートするのが便利です。  
 
 まとめてダウンロードする場合はこちらのリンクから https://github.com/jiro-aqua/aquamozc-dictionary/archive/master.zip
